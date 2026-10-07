@@ -106,15 +106,15 @@ Passionate about computers, programing, tecnology, creative design and solving r
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Raph049's GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Adrias's GitHub statistics" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raph049&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Raph049&theme=transparent&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=9CA3AF&dates=8B5CF6"
-    alt="Raph049's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Adrias&theme=transparent&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=9CA3AF&dates=8B5CF6"
+    alt="Adrias's GitHub Streak"
   />
 </p>
 
@@ -127,7 +127,7 @@ Passionate about computers, programing, tecnology, creative design and solving r
 <div align="center">
 
 <img width="98%"
-src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Raph049&bg_color=05080F&color=D1D5DB&line=00F5FF&point=3B82F6&area=true&hide_border=true&v=2"/>
+src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=adriasjere71-jpg&bg_color=05080F&color=D1D5DB&line=00F5FF&point=3B82F6&area=true&hide_border=true&v=2"/>
 
 </div>
 
