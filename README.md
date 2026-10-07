@@ -16,9 +16,9 @@ Passionate about computers, programing, tecnology, creative design and solving r
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Raph049&label=Profile+Views&color=8A2BE2&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Raph049?style=flat-square&logo=github&color=00FFFF" />
-<img src="https://img.shields.io/github/stars/Raph049?style=flat-square&logo=github&color=FF00FF" />
+<img src="https://komarev.com/ghpvc/?username=Adrias&label=Profile+Views&color=8A2BE2&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Adrias?style=flat-square&logo=github&color=00FFFF" />
+<img src="https://img.shields.io/github/stars/Adrias?style=flat-square&logo=github&color=FF00FF" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ Passionate about computers, programing, tecnology, creative design and solving r
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java," />
+<img src="https://icons?i=python,cpp,java," />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Passionate about computers, programing, tecnology, creative design and solving r
 ## 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,html,css,typescript,bootstrap" />
+<img src="https://icons?i=angular,html,css,bootstrap" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Passionate about computers, programing, tecnology, creative design and solving r
 ## ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://icons?i=nodejs,express" />
 </p>
 
 ---
