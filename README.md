@@ -106,14 +106,14 @@ Passionate about computers, programing, tecnology, creative design and solving r
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Adrias's GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adriasjere71-jpg&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Adrias's GitHub statistics" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raph049&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriasjere71-jpg&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Adrias&theme=transparent&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=9CA3AF&dates=8B5CF6"
+    src="https://streak-stats.demolab.com?user=adriasjere71-jpg&theme=transparent&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=9CA3AF&dates=8B5CF6"
     alt="Adrias's GitHub Streak"
   />
 </p>
@@ -137,7 +137,7 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=ad
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adrias&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adriasjere71-jpg&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
